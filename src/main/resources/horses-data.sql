@@ -1,0 +1,1 @@
+INSERT INTO `horses`(`age`, `breed`, `gender`, `name`) VALUES('9', 'Mustang', 'Male', 'Playgun')
