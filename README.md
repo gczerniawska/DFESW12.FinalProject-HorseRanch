@@ -25,18 +25,18 @@ I had to redo my repo because branches were messy and my network graph was far f
 
 In the future I’d like to add custom queries and custom exceptions.
 
-![Create](https://imgur.com/u1HahnW)
+![Create](https://i.imgur.com/u1HahnW.jpeg)
 
-![Delete](https://imgur.com/d8M7RhE)
+![Delete](https://i.imgur.com/d8M7RhE.jpeg)
 
-![GetById](https://imgur.com/kVCdRja)
+![GetById](https://i.imgur.com/kVCdRja.jpeg)
 
-![ReadAll](https://imgur.com/L9KdNSJ)
+![ReadAll](https://i.imgur.com/L9KdNSJ.jpeg)
 
-![Update](https://imgur.com/cNiQAET)
+![Update](https://i.imgur.com/cNiQAET.jpeg)
 
-![Test coverage](https://imgur.com/XGkSjkg)
+![Test coverage](https://i.imgur.com/XGkSjkg.jpeg)
 
-![Horses ERD](https://imgur.com/FUplw0U)
+![Horses ERD](https://i.imgur.com/FUplw0U.jpeg)
 
 
