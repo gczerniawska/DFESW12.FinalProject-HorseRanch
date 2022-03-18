@@ -54,5 +54,7 @@ Update
 
 # Hall of fame
 
-A special thank you for [YazJF](https://github.com/YazJF) and [hskingr](https://github.com/hskingr) for supporting me throught the project. I'm forever greatful for your time and expertise.  
+A special thank you to [YazJF](https://github.com/YazJF) and [hskingr](https://github.com/hskingr) for supporting me throught the project. 
+
+I am forever greatful for your time and expertise.  
 
