@@ -15,8 +15,5 @@ public interface HorsesInterface {
 	Horses update(Long id, Horses y);
 	
 	Boolean delete(Long id);
-	
-	// -- alternative delete method
-	// Horses delete(Long id);
 
 }
