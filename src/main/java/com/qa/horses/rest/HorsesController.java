@@ -49,10 +49,5 @@ public class HorsesController {
 	public ResponseEntity<Boolean> deleteById(@PathVariable("id") Long id) {
 	    return new ResponseEntity<>(this.service.delete(id), HttpStatus.GONE);
 	}
-		
-	// -- alternative delete method
-	//@DeleteMapping("/delete")
-	//public ResponseEntity<Horses> delete(@PathParam("id") Long id) {
-	//return new ResponseEntity<Horses>(this.service.delete(id), HttpStatus.GONE);
-	//	}
+
 }
