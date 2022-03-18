@@ -5,6 +5,8 @@ The point of this project was to create a Spring Boot API with full CRUD functio
 * Databases & Cloud Fundamentals (H2, MySQL)
 * Programming Fundamentals (Java)
 * Automated Testing (JUnit, Mockito)
+
+[Link to a corresponding Jira board](https://project6666ranch.atlassian.net/jira/software/projects/QAPROJECT/boards/1/backlog)
  
 # How I expected the challenge to go?
 
@@ -50,4 +52,7 @@ Update
 
 ![Horses ERD](https://i.imgur.com/FUplw0U.jpeg)
 
+# Hall of fame
+
+A special thank you for [YazJF](https://github.com/YazJF) and [hskingr](https://github.com/hskingr) for supporting me throught the project. I'm forever greatful for your time and expertise.  
 
