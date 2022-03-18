@@ -48,7 +48,7 @@ Update
 
 ![Test coverage](https://i.imgur.com/XGkSjkg.jpeg)
 
-## ERD diagram
+## ER diagram.
 
 ![Horses ERD](https://i.imgur.com/FUplw0U.jpeg)
 
@@ -57,4 +57,3 @@ Update
 A special thank you to [YazJF](https://github.com/YazJF) and [hskingr](https://github.com/hskingr) for supporting me throught the project. 
 
 I am forever greatful for your time and expertise.  
-
