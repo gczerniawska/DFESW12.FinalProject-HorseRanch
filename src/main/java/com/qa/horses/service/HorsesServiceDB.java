@@ -31,7 +31,7 @@ public class HorsesServiceDB implements HorsesInterface{
 	@Override
 	public Horses readById(Long id) {
 		Optional<Horses> optionalRead = this.repo.findById(id);
-		return optionalRead.orElse(null); //add custom return message
+		return optionalRead.orElse(null);
 	}
 
 	@Override
@@ -50,14 +50,5 @@ public class HorsesServiceDB implements HorsesInterface{
 		this.repo.deleteById(id);
 		return !this.repo.existsById(id);
 	}
-	
-	// --alternative delete method
-	
-//	@Override
-//	public Horses delete(Long id) {
-//		Optional<Horses> delete = this.repo.findById(id);
-//		this.repo.deleteById(id);
-//		return delete.orElse(null);
-//	}
 
 }
